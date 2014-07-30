@@ -79,8 +79,8 @@ function bibdk_newsroom_search_form_search($query) {
  */
 function bibdk_newsroom_menu_alter(&$items) {
   // remove user_newsroom search from search tab.
-  unset($items['search/user_newsroom']);
-  unset($items['search/user_newsroom/%menu_tail']);
+  unset($items['search/newsroom']);
+  unset($items['search/newsroom/%menu_tail']);
 }
 
 

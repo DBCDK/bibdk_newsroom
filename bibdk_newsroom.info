@@ -11,4 +11,4 @@ dependencies[] = i18n
 dependencies[] = i18n_menu
 dependencies[] = i18n_block
 
-;files[] = bibdk_newsroom.test
+files[] = bibdk_newsroom.test
